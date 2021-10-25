@@ -30,6 +30,13 @@ import tenor
 print(tenor.searchGif("gif 이름", "가져올 수", "다운로드 확인", "다운로드 경로"))
 ```
 
+# **Example**
+```python
+import tenor
+
+print(tenor.searchGif("excited", 1, True, ""))
+```
+
 # **Tip**
 
 *이 모듈을 사용하여 디스코드 봇을 만들수 있습니다!*
