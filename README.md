@@ -2,7 +2,6 @@
 
 파이썬용 Gif 라이브러리입니다.
 
-- https://pypi.org/projects/tenor
 - https://github.com/cord0318/python_tenor
 
 # **Download**
